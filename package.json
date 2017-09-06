@@ -1,0 +1,17 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "s",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^4.6.1"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
