@@ -44,7 +44,7 @@ console.log(guessMe1,guessMe2);//1 2
 
 'use strict';
 
-var guessMe1=1
+var guessMe1=1;
 let guessMe2=2;
 
 {
