@@ -64,6 +64,10 @@
         <option value="$PROJECT_DIR$/07ObjectsInES6/objectPrototypeExtensions.js" />
         <option value="$PROJECT_DIR$/07ObjectsInES6/example1.js" />
         <option value="$PROJECT_DIR$/07ObjectsInES6/example.js" />
+        <option value="$PROJECT_DIR$/08TailCallOptimization/recursion.js" />
+        <option value="$PROJECT_DIR$/08TailCallOptimization/nameProperty.js" />
+        <option value="$PROJECT_DIR$/08TailCallOptimization/stackExample.js" />
+        <option value="$PROJECT_DIR$/08TailCallOptimization/newTarget.js" />
       </list>
     </option>
   </component>
@@ -75,7 +79,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
+    <option name="x" value="637" />
     <option name="width" value="697" />
     <option name="height" value="744" />
   </component>
@@ -117,6 +121,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ESSixPractices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ESSixPractices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ESSixPractices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08TailCallOptimization" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,7 +238,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Problems">
           <PATH>
@@ -239,6 +256,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,20 +274,20 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="Node.js.example1.js">
-    <configuration default="false" name="mixins.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="mixins.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
-      <method />
-    </configuration>
-    <configuration default="false" name="shorthandCreatingDestructuringObjects.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="shorthandCreatingDestructuringObjects.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
-      <method />
-    </configuration>
-    <configuration default="false" name="computedObjectKeys.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="computedObjectKeys.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.newTarget.js">
     <configuration default="false" name="objectPrototypeExtensions.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="objectPrototypeExtensions.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
       <method />
     </configuration>
     <configuration default="false" name="example1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="example1.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
+      <method />
+    </configuration>
+    <configuration default="false" name="recursion.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="recursion.js" working-dir="$PROJECT_DIR$/08TailCallOptimization">
+      <method />
+    </configuration>
+    <configuration default="false" name="nameProperty.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="nameProperty.js" working-dir="$PROJECT_DIR$/08TailCallOptimization">
+      <method />
+    </configuration>
+    <configuration default="false" name="newTarget.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="newTarget.js" working-dir="$PROJECT_DIR$/08TailCallOptimization">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -311,19 +329,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.mixins.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.shorthandCreatingDestructuringObjects.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.computedObjectKeys.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.objectPrototypeExtensions.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.example1.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.objectPrototypeExtensions.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.example1.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.recursion.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.nameProperty.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.newTarget.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.example1.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.objectPrototypeExtensions.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.computedObjectKeys.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.shorthandCreatingDestructuringObjects.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.mixins.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.newTarget.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.nameProperty.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.recursion.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.example1.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.objectPrototypeExtensions.js" />
       </list>
     </recent_temporary>
   </component>
@@ -350,10 +368,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="744" extended-state="0" />
+    <frame x="637" y="0" width="697" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36418816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36418816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -411,9 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -604,9 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2264151">
           <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,7 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47184986">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -622,9 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.460733">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <element signature="n#!!doc;n#sumArgs#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,9 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7077748">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,9 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.6514745">
           <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,9 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3538874">
           <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41286862">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,9 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3188406">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -680,16 +675,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7169811">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08TailCallOptimization/recursion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33962265">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc;n#sumToN#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08TailCallOptimization/nameProperty.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6173913">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07ObjectsInES6/example.js">
+    <entry file="file://$PROJECT_DIR$/08TailCallOptimization/stackExample.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2830188">
-          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.04347826">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08TailCallOptimization/newTarget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6347826">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding />
         </state>
       </provider>
