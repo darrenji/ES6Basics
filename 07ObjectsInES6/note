@@ -1,0 +1,7 @@
+Object.is(a,b)和===比较类似。不同的地方在于：
+
+Object.is(+0,-1) false
+-0===+0; true
+
+Object.is(NaN, NaN) true
+NaN === NaN false

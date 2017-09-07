@@ -56,6 +56,14 @@
         <option value="$PROJECT_DIR$/06SpreadOperatorAndRestParameters/example1.js" />
         <option value="$PROJECT_DIR$/06SpreadOperatorAndRestParameters/example2.js" />
         <option value="$PROJECT_DIR$/06SpreadOperatorAndRestParameters/example3.js" />
+        <option value="$PROJECT_DIR$/07ObjectsInES6/note" />
+        <option value="$PROJECT_DIR$/07ObjectsInES6/shorthandCreatingDestructuringObjects.js" />
+        <option value="$PROJECT_DIR$/07ObjectsInES6/computedObjectKeys.js" />
+        <option value="$PROJECT_DIR$/07ObjectsInES6/mixins.js" />
+        <option value="$PROJECT_DIR$/07ObjectsInES6/operationsInObjects.js" />
+        <option value="$PROJECT_DIR$/07ObjectsInES6/objectPrototypeExtensions.js" />
+        <option value="$PROJECT_DIR$/07ObjectsInES6/example1.js" />
+        <option value="$PROJECT_DIR$/07ObjectsInES6/example.js" />
       </list>
     </option>
   </component>
@@ -67,10 +75,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="753" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -110,6 +117,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ESSixPractices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ESSixPractices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ESSixPractices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07ObjectsInES6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,20 +256,20 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="Node.js.example3.js">
-    <configuration default="false" name="restParameters.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="restParameters.js" working-dir="$PROJECT_DIR$/06SpreadOperatorAndRestParameters">
+  <component name="RunManager" selected="Node.js.example1.js">
+    <configuration default="false" name="mixins.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="mixins.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
       <method />
     </configuration>
-    <configuration default="false" name="spreadOperator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="spreadOperator.js" working-dir="$PROJECT_DIR$/06SpreadOperatorAndRestParameters">
+    <configuration default="false" name="shorthandCreatingDestructuringObjects.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="shorthandCreatingDestructuringObjects.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
       <method />
     </configuration>
-    <configuration default="false" name="example1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="example1.js" working-dir="$PROJECT_DIR$/06SpreadOperatorAndRestParameters">
+    <configuration default="false" name="computedObjectKeys.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="computedObjectKeys.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
       <method />
     </configuration>
-    <configuration default="false" name="example2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="example2.js" working-dir="$PROJECT_DIR$/06SpreadOperatorAndRestParameters">
+    <configuration default="false" name="objectPrototypeExtensions.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="objectPrototypeExtensions.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
       <method />
     </configuration>
-    <configuration default="false" name="example3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="example3.js" working-dir="$PROJECT_DIR$/06SpreadOperatorAndRestParameters">
+    <configuration default="false" name="example1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/Nodist/bin/node" path-to-js-file="example1.js" working-dir="$PROJECT_DIR$/07ObjectsInES6">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -290,19 +311,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.restParameters.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.spreadOperator.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.example1.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.example2.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.example3.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.mixins.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.shorthandCreatingDestructuringObjects.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.computedObjectKeys.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.objectPrototypeExtensions.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.example1.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.example3.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.example2.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.example1.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.spreadOperator.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.restParameters.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.example1.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.objectPrototypeExtensions.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.computedObjectKeys.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.shorthandCreatingDestructuringObjects.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.mixins.js" />
       </list>
     </recent_temporary>
   </component>
@@ -329,15 +350,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
+    <frame x="676" y="0" width="697" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17857143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36418816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33816424" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34313726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -604,6 +625,72 @@
           <folding>
             <element signature="n#!!doc;n#sumArgs#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07ObjectsInES6/computedObjectKeys.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7077748">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07ObjectsInES6/mixins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6514745">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07ObjectsInES6/shorthandCreatingDestructuringObjects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3538874">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07ObjectsInES6/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41286862">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07ObjectsInES6/operationsInObjects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3188406">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07ObjectsInES6/objectPrototypeExtensions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7169811">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07ObjectsInES6/example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2830188">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
